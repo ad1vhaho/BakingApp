@@ -1,0 +1,7 @@
+C:\Users\adivh\source\repos\BakingApp\BakingApp\bin\Debug\BakingApp.exe.config
+C:\Users\adivh\source\repos\BakingApp\BakingApp\bin\Debug\BakingApp.exe
+C:\Users\adivh\source\repos\BakingApp\BakingApp\bin\Debug\BakingApp.pdb
+C:\Users\adivh\source\repos\BakingApp\BakingApp\obj\Debug\BakingApp.csproj.AssemblyReference.cache
+C:\Users\adivh\source\repos\BakingApp\BakingApp\obj\Debug\BakingApp.csproj.CoreCompileInputs.cache
+C:\Users\adivh\source\repos\BakingApp\BakingApp\obj\Debug\BakingApp.exe
+C:\Users\adivh\source\repos\BakingApp\BakingApp\obj\Debug\BakingApp.pdb
